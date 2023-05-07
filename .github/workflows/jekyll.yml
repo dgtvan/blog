@@ -46,6 +46,7 @@ jobs:
         run: |
           gem install jekyll bundler
           bundle install
+          bundle add webrick
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         working-directory: ./blog
