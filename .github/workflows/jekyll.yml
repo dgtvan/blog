@@ -46,7 +46,6 @@ jobs:
         run: gem install jekyll bundler
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        working-directory: ./blog
         run: |
           bundle install
           bundle exec jekyll build
@@ -55,8 +54,6 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./blog/_site
   # Deployment job
   deploy:
     environment:
