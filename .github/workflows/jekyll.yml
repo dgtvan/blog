@@ -43,11 +43,10 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install Jekyll
-        run: gem install jekyll bundler
+        run: gem install jekyll
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: |
-          bundle install
           bundle exec jekyll build
         env:
           JEKYLL_ENV: production
