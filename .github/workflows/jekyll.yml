@@ -48,7 +48,6 @@ jobs:
         # Outputs to the './_site' directory by default
         working-directory: ./blog
         run: |
-          bundle add webrick
           bundle install
           bundle exec jekyll build
         env:
