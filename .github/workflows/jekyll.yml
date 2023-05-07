@@ -43,7 +43,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v3
       - name: Install Jekyll
-        run: gem install jekyll bundler
+        run: |
+          gem install jekyll bundler
+          bundle install
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         working-directory: ./blog
