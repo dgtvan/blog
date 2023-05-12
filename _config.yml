@@ -56,6 +56,6 @@ plugins:
 
 defaults:
   - scope:
-      path: "img"
+      path: "images"
     values:
       image: true
