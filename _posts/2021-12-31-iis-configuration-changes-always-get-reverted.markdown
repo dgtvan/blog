@@ -23,12 +23,12 @@ There is a thing I did not know. IIS has two configuration levels:
 1/ IIS level  
 A configuration set at the IIS level applies to all websites.
 
-![](/img/127kzObVVFie1JBMFw9f2TQ_2.png)2/ Website level  
+![]({{ site.baseurl }}/images/127kzObVVFie1JBMFw9f2TQ_2.png)2/ Website level  
 *-* A configuration set at the website level applies only to a certain website.  
 *- *The IIS level configurations will be overwritten by the website level.  
 ***-* Configurations are stored in a web.config file.**
 
-![](/img/1lh3ajWX9xcTBwHaYGWb9tw_2.png)Website level configurationAs you may guess what the problem is.
+![]({{ site.baseurl }}/images/1lh3ajWX9xcTBwHaYGWb9tw_2.png)Website level configurationAs you may guess what the problem is.
 
 For each new deployment I manually copy and paste all new files (a web.config file included) to the target website’s deployment folder, all files should be overwritten. Hence, any configuration stored in the web.config file via IIS is removed.
 

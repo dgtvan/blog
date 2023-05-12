@@ -16,7 +16,7 @@ The authentication module had a public API “/Login” where end-users submitte
 
 HTTPS was in use.
 
-![](/img/1xa9QVocoKr-sHWuUmocxPQ_2.png)The development had several phases, it was going to the end of the first phase at the time. Before that end, a security audit had to be established, the customer hired another security audit company to do that.
+![]({{ site.baseurl }}/images/1xa9QVocoKr-sHWuUmocxPQ_2.png)The development had several phases, it was going to the end of the first phase at the time. Before that end, a security audit had to be established, the customer hired another security audit company to do that.
 
 My story is a security auditor reported an issue that I do not agree to.
 
@@ -26,7 +26,7 @@ There was a day, a security auditor reported a critical issue with our customer 
 
 The issue was the end-users password was sent to the login endpoint in plain text. It was a high vulnerability. And an image, which is similar to the one I made below, is attached to the email.
 
-![](/img/1WNnun0Ds1nuHqZK9G7y5cg_2.png)He suggested a solution to the issue. It was to encrypt passwords on the client-side (the browser) with a strong algorithm such as RSA 2048 bits.
+![]({{ site.baseurl }}/images/1WNnun0Ds1nuHqZK9G7y5cg_2.png)He suggested a solution to the issue. It was to encrypt passwords on the client-side (the browser) with a strong algorithm such as RSA 2048 bits.
 
 #### Discussion between me and the auditor
 

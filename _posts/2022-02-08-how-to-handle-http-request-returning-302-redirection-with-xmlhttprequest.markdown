@@ -16,7 +16,7 @@ The XMLHttpRequest’s implementation exposes a property named ResponseURL. The 
 
 It is enough to solve my problem.
 
-![](/img/1omCTLTpCgUKLmNXY9SlRXg_2.png)Example of using ResponseURLFor compatibility, reference <https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseURL>
+![]({{ site.baseurl }}/images/1omCTLTpCgUKLmNXY9SlRXg_2.png)Example of using ResponseURLFor compatibility, reference <https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseURL>
 
 #### **jQuery**
 

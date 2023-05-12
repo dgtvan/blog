@@ -13,7 +13,7 @@ What was my answer?
 
 > In short, an interface is to decouple the dependency between classes.In the interview, I tried to express my knowledge surrounding interface so the answer was a bit longer but what I wanted to say is the same.
 
-![](/img/1uQYpcPWXqdv6NDgOaS8yQw_2.png)Is it not enough? I do not know but that is what I understand and actually put into practice.
+![]({{ site.baseurl }}/images/1uQYpcPWXqdv6NDgOaS8yQw_2.png)Is it not enough? I do not know but that is what I understand and actually put into practice.
 
 For a simple explanation of interface, the article below is a good simple one.
 

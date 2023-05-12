@@ -10,4 +10,4 @@ date:	2022-06-04
 
 2/ Open the file as a plain text file with any text editor, it should be showing the connection string.
 
-![](/img/11oXM8WCrlBkv0EpF7xqiqg_2.png)  
+![]({{ site.baseurl }}/images/11oXM8WCrlBkv0EpF7xqiqg_2.png)  

@@ -8,6 +8,6 @@ date:	2023-01-24
 
 So that I created a shell extension to add context menus for launching the Rider diff feature based on how users select files and folders.
 
-![](/img/0_keOx2TPvPM8iLKF_2.png)![](/img/0omAyvuJfCe1qgjwa_2.png)If you like it, check it out here <https://github.com/VanDng/comparison-context-menu>
+![]({{ site.baseurl }}/images/0_keOx2TPvPM8iLKF_2.png)![]({{ site.baseurl }}/images/0omAyvuJfCe1qgjwa_2.png)If you like it, check it out here <https://github.com/VanDng/comparison-context-menu>
 
   

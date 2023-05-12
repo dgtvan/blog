@@ -21,7 +21,7 @@ Back to my problem, I had never dealt with this problem before so I had to searc
 
 Here is the table showing ways to solve the problem.
 
-![](/img/1C0R8lW1usDxfmaYv9-RgBQ_2.png)(*) [FromSqlRaw](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.relationalqueryableextensions.fromsqlraw?view=efcore-6.0) is away we use EF to execute raw SQL queries.
+![]({{ site.baseurl }}/images/1C0R8lW1usDxfmaYv9-RgBQ_2.png)(*) [FromSqlRaw](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.relationalqueryableextensions.fromsqlraw?view=efcore-6.0) is away we use EF to execute raw SQL queries.
 
 Here is a repository containing examples for each approach on each EF version.
 

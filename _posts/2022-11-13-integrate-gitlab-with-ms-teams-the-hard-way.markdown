@@ -32,11 +32,11 @@ After some tries, I find out **Power Automate** is the right tool that can help 
 
 My words can be summarized by the following diagram.
 
-![](/img/1fMFFJlsbxkuVobOn15i8Ag_2.png)### **Conclusion**
+![]({{ site.baseurl }}/images/1fMFFJlsbxkuVobOn15i8Ag_2.png)### **Conclusion**
 
 I made it.
 
-![](/img/1FkrH69esZyU-Q68D9zu9dw_2.png)There’re lots of rooms to improve and add more features.
+![]({{ site.baseurl }}/images/1FkrH69esZyU-Q68D9zu9dw_2.png)There’re lots of rooms to improve and add more features.
 
 This article is for myself and those who are looking for something similar but be stuck.
 

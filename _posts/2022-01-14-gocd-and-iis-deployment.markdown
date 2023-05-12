@@ -12,7 +12,7 @@ The article begins with my own explanation of CICD because I found there are peo
 
 Here is a question of a guy on the internet, he set up a CICD with the GoCD app and got a problem with deployment.
 
-![](/img/1WlFO6Hh_P0q9QbpyyzXhyg_2.png)Cedric asked, “How do I deploy [a website package] to the IIS Web Server [using GoCD]?”.
+![]({{ site.baseurl }}/images/1WlFO6Hh_P0q9QbpyyzXhyg_2.png)Cedric asked, “How do I deploy [a website package] to the IIS Web Server [using GoCD]?”.
 
 Aravind gave a great answer but general. I still want to give more details as well as an example for this question.
 

@@ -4,7 +4,7 @@ title:	"Instantly remotely disable apps on your child’s iPad at no cost"
 date:	2021-09-26
 ---
 
-  ![](/img/0RcyzfJizBslCvs-f_2)Photo by [Jelleke Vanooteghem](https://unsplash.com/@ilumire?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)Kids spending the whole day playing on iPad? I found a solution.
+  ![]({{ site.baseurl }}/images/0RcyzfJizBslCvs-f_2)Photo by [Jelleke Vanooteghem](https://unsplash.com/@ilumire?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)Kids spending the whole day playing on iPad? I found a solution.
 
 #### Built-in solution
 
@@ -49,7 +49,7 @@ What I want is really simple:
 
 The first two expectations are one of the main features provided by OurPact. There is two buttons “BLOCK” and “GRANT” to quickly instantly disable or enable apps right on the center main screen.
 
-![](/img/1nSaLMKPfof-uKW0FZjf9FQ_2.png)<https://ourpact.com/>Besides, you can schedule different periods of time on a day to disable apps.
+![]({{ site.baseurl }}/images/1nSaLMKPfof-uKW0FZjf9FQ_2.png)<https://ourpact.com/>Besides, you can schedule different periods of time on a day to disable apps.
 
 The problem is that OurPact’s free version allows you to activate instant blocking only 5 times per month.
 

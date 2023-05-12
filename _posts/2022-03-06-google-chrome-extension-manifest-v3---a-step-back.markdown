@@ -8,7 +8,7 @@ date:	2022-03-06
 
 According to an [official announcement](https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/), Manifest V2 will be going to an end by 2023. Everyone is on their way to upgrade their extensions to Manifest V3.
 
-![](/img/18wpbad9oyhAouUelHMzFUA_2.png)At first, I had no idea about Manifest V2 and V3, I found a sample and kicked it started, later I knew that I was working on Manifest V2 and realized Manifest V2 is going to be deprecated soon.
+![]({{ site.baseurl }}/images/18wpbad9oyhAouUelHMzFUA_2.png)At first, I had no idea about Manifest V2 and V3, I found a sample and kicked it started, later I knew that I was working on Manifest V2 and realized Manifest V2 is going to be deprecated soon.
 
 So, I started to work on Manifest V3 migration. Well, gradually, it was more like developing everything all over again, not migrating.
 
