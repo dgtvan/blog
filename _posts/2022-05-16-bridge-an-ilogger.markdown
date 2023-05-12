@@ -34,7 +34,7 @@ The definition of the delegate CustomLogFormatter:
  return (newFormat, newArguments);  
 }The illustration below shows how the bridge logger worked.
 
-![]({{ site.baseurl }} /img/1cf6R1zK3M-0rUEpx3HnEXg_2.png)### Source Code
+![]({{ site.baseurl }}/images/1cf6R1zK3M-0rUEpx3HnEXg_2.png)### Source Code
 
 [VanDng/BridgeLogger (github.com)](https://github.com/VanDng/BridgeLogger)
 
