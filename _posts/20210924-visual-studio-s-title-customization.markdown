@@ -10,7 +10,7 @@ I usually open multiple instances of Visual Studio to ease the reference and qui
 
 There’s a situation where I have different GIT branches checked out, they are from the same repo so the solution name and source code structure are likely the same. At the moment, I want to open a few of them with different Visual Studio instances, after that the problem comes in not too long.
 
-![]({{ site.baseurl }}/images/1J5tVrwvq6jTXLtGzrr88Qw_2.png)After a few switching between Visual Studio windows, I suddenly get lost. The name of all opening solutions is the same, then I do not know where I am at the moment, I simply can not determine which Visual Studio window belongs to which solution.
+![]({{ site.baseurl }}/images/20210924_problem.png)After a few switching between Visual Studio windows, I suddenly get lost. The name of all opening solutions is the same, then I do not know where I am at the moment, I simply can not determine which Visual Studio window belongs to which solution.
 
 ![]({{ site.baseurl }}/images/1Nh_bULRPCP1ra4Y8NzM1ug_2.png)![]({{ site.baseurl }}/images/1HTdmBykRiZxSkpQ0jdl08g_2.png)How can I get out of this? Two ways:  
 (1) Hover to any file opening tab to view the solution path.  
