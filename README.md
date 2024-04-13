@@ -6,8 +6,8 @@
 4. Check if Jekyll has been installed properly ``jekyll -v``.
 5. Install all necessary gems ``bundle install``.
 6. Build and run the project ``bundle exec jekyll serve``.
-    1. The website will likely be served at the address ``http://127.0.0.1:4000/blog/``. Try take a look at the output window if it does not work.
-    2. Auto-regeneration should also be enabled. No need to rerun the command after making changes.
+    - The website will likely be served at the address ``http://127.0.0.1:4000/blog/``. Try take a look at the output window if it does not work.
+    - Auto-regeneration should also be enabled. No need to rerun the command after making changes.
 
 
 ### Github action
