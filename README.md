@@ -9,5 +9,9 @@
     - Auto-regeneration should also be enabled. No need to rerun the command after making changes.
 
 
-### Github action
-Check out the file `.github/workflows/jekyll.yml`.
+### Local dev cheatsheet
+1. Show the gem's local path `bundle show <gem name>`
+    ```
+    D:\Src\dgtvan.github.io>bundle show minima
+    C:/Ruby32-x64/lib/ruby/gems/3.2.0/gems/minima-2.5.1
+    ```
