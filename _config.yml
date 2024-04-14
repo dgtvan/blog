@@ -54,11 +54,11 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-defaults:
-  - scope:
-      path: "images"
-    values:
-      image: true
+# defaults:
+#   - scope:
+#       path: "images"
+#     values:
+#       image: true
 
 permalink: /:year/:month/:day/:title.html
 
