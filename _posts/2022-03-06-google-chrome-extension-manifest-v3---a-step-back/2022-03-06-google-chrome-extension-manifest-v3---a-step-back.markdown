@@ -4,11 +4,13 @@ title:	"Google Chrome Extension Manifest V3 — A Step back?"
 date:	2022-03-06
 ---
 
-  I have a personal project developing a Chrome extension. Along the way I research to develop it, I find that I joined the party at the wrong time frame. It’s both interesting and frustrating at the same time.
+I have a personal project developing a Chrome extension. Along the way I research to develop it, I find that I joined the party at the wrong time frame. It’s both interesting and frustrating at the same time.
 
 According to an [official announcement](https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/), Manifest V2 will be going to an end by 2023. Everyone is on their way to upgrade their extensions to Manifest V3.
 
-![]({{ site.baseurl }}/images/18wpbad9oyhAouUelHMzFUA_2.png)At first, I had no idea about Manifest V2 and V3, I found a sample and kicked it started, later I knew that I was working on Manifest V2 and realized Manifest V2 is going to be deprecated soon.
+![](18wpbad9oyhAouUelHMzFUA_2.png)
+
+At first, I had no idea about Manifest V2 and V3, I found a sample and kicked it started, later I knew that I was working on Manifest V2 and realized Manifest V2 is going to be deprecated soon.
 
 So, I started to work on Manifest V3 migration. Well, gradually, it was more like developing everything all over again, not migrating.
 

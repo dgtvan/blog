@@ -4,7 +4,7 @@ title:	"Visual Studio’s Title Customization"
 date:	2021-09-24
 ---
 
-  ### I. Problem
+### I. Problem
 
 I usually open multiple instances of Visual Studio to ease the reference and quickly switch between bug fixes.
 

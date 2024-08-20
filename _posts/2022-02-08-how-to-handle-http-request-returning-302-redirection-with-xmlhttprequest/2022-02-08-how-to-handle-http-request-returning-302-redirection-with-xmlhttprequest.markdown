@@ -4,7 +4,7 @@ title:	"How to handle HTTP Request returning 302 Redirection with XMLHttpRequest
 date:	2022-02-08
 ---
 
-  Recently, I have jumped into Javascript to make a few tiny scripts for fun. Soon after beginning, I had a problem with an HTTP Request returning status code 302 Redirection.
+Recently, I have jumped into Javascript to make a few tiny scripts for fun. Soon after beginning, I had a problem with an HTTP Request returning status code 302 Redirection.
 
 I used jQuery.ajax() to make HttpRequest and wanted to know whether a request was redirected and where it was redirected to.
 
@@ -16,7 +16,7 @@ The XMLHttpRequest’s implementation exposes a property named ResponseURL. The 
 
 It is enough to solve my problem.
 
-![]({{ site.baseurl }}/images/1omCTLTpCgUKLmNXY9SlRXg_2.png)Example of using ResponseURLFor compatibility, reference <https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseURL>
+![](1omCTLTpCgUKLmNXY9SlRXg_2.png)Example of using ResponseURLFor compatibility, reference <https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseURL>
 
 #### **jQuery**
 
