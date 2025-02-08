@@ -1,0 +1,5 @@
+relative:
+  suddently, you want to change the root path. that's fine. you can do it bit by bit.
+
+full:
+  everything stickes together, you have to move all at the same time.
