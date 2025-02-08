@@ -17,13 +17,13 @@ There are third-party service providers that can combine all calendars into a si
 
 Instead, I found that both Google and Outlook allow me to subscribe to each other’s calendars.
 
-- Subscribe to Google Calendar in Outlook - https://support.microsoft.com/en-us/office/see-your-google-calendar-in-outlook-c1dab514-0ad4-4811-824a-7d02c5e77126
-- Subscribe to Outlook Calendar in Google Calendar - https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop&sjid=8918504672457931033-NC
+- Subscribe to Google Calendar in Outlook - [https://support.microsoft.com/en-us/office/see-your-google-calendar-in-outlook-c1dab514-0ad4-4811-824a-7d02c5e77126](https://support.microsoft.com/en-us/office/see-your-google-calendar-in-outlook-c1dab514-0ad4-4811-824a-7d02c5e77126)
+- Subscribe to Outlook Calendar in Google Calendar - [https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop&sjid=8918504672457931033-NC](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop&sjid=8918504672457931033-NC)
 
 The outcome is that now I have all schedules in both my personal and work calendars and can access them from any device.
 ![](combine-calendar.png)
 
 ![](warning.png)  
-There is a delay in calendar synchronization — around 24 hours for Google calendar — with no setting to change that - https://support.google.com/calendar/thread/225477597/increase-calendar-sync-frequency?hl=en.
+There is a delay in calendar synchronization — around 24 hours for Google calendar — with no setting to change that - [https://support.google.com/calendar/thread/225477597/increase-calendar-sync-frequency?hl=en](https://support.google.com/calendar/thread/225477597/increase-calendar-sync-frequency?hl=en).
 
-If we want synchronization to happen more frequently, we need additional setup using Google Apps Script - https://github.com/derekantrican/GAS-ICS-Sync.
+If we want synchronization to happen more frequently, we need additional setup using Google Apps Script - [https://github.com/derekantrican/GAS-ICS-Sync](https://support.google.com/calendar/thread/225477597/increase-calendar-sync-frequency?hl=en).
