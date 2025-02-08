@@ -37,7 +37,7 @@ Supposedly, we have deployment steps and corresponding approaches below:
 - Without GoCD: We execute the command line of copying the package to the website’s folder.  
 - With GoCD: We set up the GoCD Agent on the web server to execute the command line of copying the package to the website’s folder.
 
-**5/ Start IIS on the web server*
+**5/ Start IIS on the web server**
 - Without GoCD: On the web server, we can execute the command line “appcmd start apppool <AppName>” to stop our app pool.  
 - With GoCD: We set up the GoCD Agent on the web server to execute the command line “appcmd start appool <AppName>”.
 
